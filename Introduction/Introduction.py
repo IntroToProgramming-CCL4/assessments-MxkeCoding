@@ -1,7 +1,3 @@
-import sys
-
-
-
 print("I'm a duck")
 
 print("       _.-.                    ")
